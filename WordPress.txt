@@ -1,0 +1,68 @@
+1) The Basics 
+
+   What is WordPress 
+
+    Two definitions 
+        - piece of software to create website 
+        - a CMS(Content management system)
+
+
+   Where you can get it 
+
+
+    Two different ways 
+
+       wordPress.org 
+         - standalone (install locally)
+
+
+       wordPress.com
+
+         - using their own platform
+         - paid
+
+
+   What you can do with it 
+
+    - simple blogs to large complex websites 
+
+
+   WordPress.Com vs. WordPress.org
+
+    wordPress.org 
+         - standalone (install locally)
+
+
+    wordPress.com
+
+         - using their own platform
+         - paid
+
+   
+   Installing WordPress Locally 
+
+    How to install word press locally 
+
+
+    what software do you need  
+
+     webserver emulator (we use MAMP) (its like xampp)
+     Link - https://www.mamp.info/en/windows/
+
+
+2) Content Management 
+
+     Content types 
+
+          - Posts
+          - Comments
+          - Users 
+          - Links 
+
+     Pages are post type 
+
+
+
+
+
+3) Customization , Plugins and Settings 
